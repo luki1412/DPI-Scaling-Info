@@ -90,8 +90,10 @@ namespace DPIGetTest
                     Console.WriteLine("DPI Scaling Info");
                     Console.ResetColor();
                     Console.WriteLine("Version: 1.0");
-                    Console.WriteLine("Author: Lukas Ceremeta (luki1412)");
-                    Console.WriteLine("Description: This console application returns DPI scaling and resolution for the current monitor. If successful, returns results and exit code 0.If there is an error, returns an error message and exit code 1.");
+                    Console.WriteLine("Author: Lukáš Čeremeta (luki1412)");
+                    Console.WriteLine("Email: luki1224@gmail.com");
+                    Console.WriteLine("License: GNU GPLv3");
+                    Console.WriteLine("Description: This console application returns DPI scaling and resolution for the current monitor. If successful, returns results and exit code 0. If there is an error, returns an error message and exit code 1.");
                     Console.WriteLine("-------------");
                     Console.WriteLine("Parameters:");
                     Console.WriteLine("-nw /nw  No waiting. Returns output and terminates.");
